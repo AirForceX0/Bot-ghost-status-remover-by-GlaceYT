@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Citing Users"];
+const statusMessages = ["Listening To Complaints"];
 
 
 let currentIndex = 0;
